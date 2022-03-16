@@ -9,6 +9,10 @@
 __Simple and easy to use i18n (Internationalization and localization) engine written in Go, used for translating locale strings. 
 Use with [go generate](#go-generate) or on the [CLI](#cli). Currently supports JSON, YAML, TOML and CSV translation files__
 
+## Usage for go1.18
+
+`go install github.com/zjc17/go-localize@v1.0.1`
+
 ## Why another i18n library?
 
 This package aims to be as simple and easy to use as possible. It also
